@@ -1,0 +1,4 @@
+requests
+tqdm
+pycryptodome
+urllib3
