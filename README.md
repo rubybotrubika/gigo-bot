@@ -1,1 +1,1 @@
-# gigo-bot
+# giga-bot
